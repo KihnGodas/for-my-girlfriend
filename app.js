@@ -20,7 +20,7 @@ function fadeIn(){
     }
 };
 
-// luckily (or not), she doesn't know
+
 
 document.querySelector(".content").onclick=()=>{
     document.querySelector("#heart").hidden=false
